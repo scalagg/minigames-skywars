@@ -10,7 +10,7 @@ dependencies {
     compileOnly(project(":spigot-integration"))
     api(project(":minigames:skywars-shared"))
     compileOnly("net.dmulloy2:ProtocolLib:5.4.0")
-    compileOnly("gg.scala.game.extensions:scala-core-game-extensions:1.5.3")
+    compileOnly("gg.scala.game.extensions:scala-core-game-extensions:1.5.5")
     compileOnly("com.github.cryptomorin:XSeries:13.0.0")
     compileOnly("gg.scala.commons:serversync:$commonsVersion")
 }
